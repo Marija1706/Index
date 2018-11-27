@@ -1,0 +1,26 @@
+@IMPORT
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+body {
+    color: #333
+    background-color: #FFE4C4;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3{
+        font-family: 'Open Sans', serif;
+}
+p {
+    color: gray; 
+    background-color: #f0f0f0;
+}
+
+header, footer {
+    background-color: #333;
+    color: #f0f0f0;
+overflow: auto; /*da margine ne bi probijale*/
+}
+
+.crveno {
+    color: crimson;
+}
